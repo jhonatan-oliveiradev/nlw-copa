@@ -1,5 +1,8 @@
 <div align="center">
-<h1 align="center">Bolão NLW | Aplicação para criar bolões para a Copa do Mundo de 2022<br> feito com JavaScript.</h1>
+<h1 align="center">Bolão NLW</h1>
+&nbsp;
+<h2 align="center">Aplicação para criar bolões para a Copa do Mundo de 2022.<br>feito com NextJS e TypeScript.</h2>
+&nbsp;
 </div>
 
 <p align="center">
@@ -7,6 +10,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+&nbsp;
 
 <p align="center">
  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=04D361&labelColor=281F3D" alt="License" />
@@ -28,9 +32,13 @@
 
 ### O que foi desenvolvido?
 
-- Aplicação Web completa feita durante o evento NLW Copa, da Rockeseat.
+- Aplicação Web completa feita durante o evento NLW Copa, da Rocketseat.
 
-# 🚀 Tecnologias:
+&nbsp;
+&nbsp;
+&nbsp;
+
+# 🖥️ Tecnologias:
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -44,17 +52,47 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Axios
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 # 🚧 Projeto:
 
 ### [Em breve!](https://aquecimento-nlw-copa.vercel.app/)
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+# 🚀 Como executar:
+
+- Clone o repositório
+
+- Instale as dependências com `npm install`
+
+- Inicie o servidor com `npm run dev`
+
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 # 🎨 Inspiração:
 
 ### [NLW Copa](https://www.youtube.com/watch?v=sswJisbD2CY&t=5s/)
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 # 📝 Licença:
 
 Esse projeto é open source, idealizado e realizado pela Rocketseat.
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 <hr>
 
